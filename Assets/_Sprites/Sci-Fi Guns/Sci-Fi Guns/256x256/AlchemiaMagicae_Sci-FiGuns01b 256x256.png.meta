@@ -1,0 +1,4550 @@
+fileFormatVersion: 2
+guid: 7e082bde96b8bd84c804e275a6790d0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6697757776216231336
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_0
+  - first:
+      213: -2512613492384504251
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_1
+  - first:
+      213: 3803379999436359232
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_2
+  - first:
+      213: 2061591375040503417
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_3
+  - first:
+      213: 5734195994564079196
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_4
+  - first:
+      213: 4117412747265611728
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_5
+  - first:
+      213: 4672437958998046242
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_6
+  - first:
+      213: -1577215114879389512
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_7
+  - first:
+      213: 737770881419842740
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_8
+  - first:
+      213: 4108217088945480998
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_9
+  - first:
+      213: -3704175204861339717
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_10
+  - first:
+      213: -5342222653991422457
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_11
+  - first:
+      213: 8415960177391064640
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_12
+  - first:
+      213: -4933813192936932099
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_13
+  - first:
+      213: 143624542146448116
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_14
+  - first:
+      213: 4754720581392088770
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_15
+  - first:
+      213: 745043150835341767
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_16
+  - first:
+      213: -6996632335488464135
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_17
+  - first:
+      213: 8512525678691057718
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_18
+  - first:
+      213: 2204883375828883500
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_19
+  - first:
+      213: -5594792989648102904
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_20
+  - first:
+      213: -5621868922281828509
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_21
+  - first:
+      213: 6556368476766200614
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_22
+  - first:
+      213: 3858757080576905816
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_23
+  - first:
+      213: -8705688346348585367
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_24
+  - first:
+      213: 4629251943892085229
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_25
+  - first:
+      213: -3774667130472625322
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_26
+  - first:
+      213: -1777105008990154280
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_27
+  - first:
+      213: -3825229042649508495
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_28
+  - first:
+      213: 2451295418275659091
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_29
+  - first:
+      213: -4763201624857533027
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_30
+  - first:
+      213: 238573234250405195
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_31
+  - first:
+      213: -5500571590549360505
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_32
+  - first:
+      213: -6967332492240667968
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_33
+  - first:
+      213: 1652984131099298750
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_34
+  - first:
+      213: 3216237578754999816
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_35
+  - first:
+      213: -6160031327073708460
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_36
+  - first:
+      213: -301149639521642270
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_37
+  - first:
+      213: 6713537025489425634
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_38
+  - first:
+      213: -5254181327303589389
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_39
+  - first:
+      213: -1264251918127971265
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_40
+  - first:
+      213: -3355373399494201002
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_41
+  - first:
+      213: 2828572324825155768
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_42
+  - first:
+      213: -3066816185879211672
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_43
+  - first:
+      213: -5242445992361363167
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_44
+  - first:
+      213: -666519318717099174
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_45
+  - first:
+      213: 1625013777005340208
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_46
+  - first:
+      213: 7374456206742616068
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_47
+  - first:
+      213: -542498732093118507
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_48
+  - first:
+      213: 7743390663003986935
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_49
+  - first:
+      213: -8269772873505741263
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_50
+  - first:
+      213: 2456448563869968380
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_51
+  - first:
+      213: -4376736263342955536
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_52
+  - first:
+      213: 5837027999618757852
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_53
+  - first:
+      213: 2387799839153698102
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_54
+  - first:
+      213: 1135575223242042781
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_55
+  - first:
+      213: -657576696352299699
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_56
+  - first:
+      213: 4619001184940180223
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_57
+  - first:
+      213: 6760530061103327315
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_58
+  - first:
+      213: 5722757689492599199
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_59
+  - first:
+      213: -5824594449145050987
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_60
+  - first:
+      213: -7276509961900582657
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_61
+  - first:
+      213: 735875905366498608
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_62
+  - first:
+      213: -328370944727473129
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_63
+  - first:
+      213: -4982159427615958741
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_64
+  - first:
+      213: -6086595879512761865
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_65
+  - first:
+      213: 7727897965298185254
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_66
+  - first:
+      213: -759578139619193564
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_67
+  - first:
+      213: 9206158002863048776
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_68
+  - first:
+      213: -2091565236379683695
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_69
+  - first:
+      213: 8099146769910788677
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_70
+  - first:
+      213: -8866317990708818540
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_71
+  - first:
+      213: 5674370647109252471
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_72
+  - first:
+      213: -644685354116649820
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_73
+  - first:
+      213: -2006885092585702503
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_74
+  - first:
+      213: -4533975688699452777
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_75
+  - first:
+      213: -8754802250222118841
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_76
+  - first:
+      213: 437552039581432862
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_77
+  - first:
+      213: -1585240021952226155
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_78
+  - first:
+      213: -6713012973525849313
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_79
+  - first:
+      213: 141492578961162619
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_80
+  - first:
+      213: 5859494953078511359
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_81
+  - first:
+      213: -6014402488076186577
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_82
+  - first:
+      213: -1211261332309636747
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_83
+  - first:
+      213: 2579556033579649673
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_84
+  - first:
+      213: 6599339329882938815
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_85
+  - first:
+      213: -3635963497487047818
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_86
+  - first:
+      213: -5477329784450120102
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_87
+  - first:
+      213: 7061209863867869299
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_88
+  - first:
+      213: -8232437589472835462
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_89
+  - first:
+      213: -7047396933413911448
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_90
+  - first:
+      213: -6158717157039004949
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_91
+  - first:
+      213: 2956233755490153382
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_92
+  - first:
+      213: 1348131206443327603
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_93
+  - first:
+      213: 2028879992526677314
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_94
+  - first:
+      213: -1205871291236928633
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_95
+  - first:
+      213: 8107756111170370824
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_96
+  - first:
+      213: -6089111153991762770
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_97
+  - first:
+      213: 5363700918420336721
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_98
+  - first:
+      213: 13318057424557371
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_99
+  - first:
+      213: -4929141547309296215
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_100
+  - first:
+      213: -5916879428571268585
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_101
+  - first:
+      213: -6279326156436423847
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_102
+  - first:
+      213: -1635041059912899427
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_103
+  - first:
+      213: 8082396561415473158
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_104
+  - first:
+      213: 2965199275395219334
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_105
+  - first:
+      213: -3995859211464182295
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_106
+  - first:
+      213: -4415832074294667164
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_107
+  - first:
+      213: -9041800383171117483
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_108
+  - first:
+      213: -8164311251461633559
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_109
+  - first:
+      213: 7723253493649585581
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_110
+  - first:
+      213: -5537136305622712440
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_111
+  - first:
+      213: -8739803671970986131
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_112
+  - first:
+      213: 5727231466979912365
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_113
+  - first:
+      213: -894790584798261757
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_114
+  - first:
+      213: 3021522228658557795
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_115
+  - first:
+      213: 8735988019841787015
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_116
+  - first:
+      213: 1593809707025540878
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_117
+  - first:
+      213: -8905904238685613648
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_118
+  - first:
+      213: -8113154719989575828
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_119
+  - first:
+      213: -2768717781283713853
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_120
+  - first:
+      213: 8635932431331695441
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_121
+  - first:
+      213: -2918774168209822494
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_122
+  - first:
+      213: 7937565729043765144
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_123
+  - first:
+      213: 8533683364582556523
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_124
+  - first:
+      213: 8533440887874711066
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_125
+  - first:
+      213: -1745902608850310348
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_126
+  - first:
+      213: 8957430815405029997
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_127
+  - first:
+      213: 6143645493267202304
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_128
+  - first:
+      213: 4661729061723527321
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_129
+  - first:
+      213: 5015119401321883209
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_130
+  - first:
+      213: 6459433191861375905
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_131
+  - first:
+      213: -4252515133448902824
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_132
+  - first:
+      213: -7575296147166958010
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_133
+  - first:
+      213: 1164648243555312710
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_134
+  - first:
+      213: -5408899384968922827
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_135
+  - first:
+      213: -3779397010782697372
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_136
+  - first:
+      213: 1687244817687164546
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_137
+  - first:
+      213: -3386732622445887595
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_138
+  - first:
+      213: -7264320937964741754
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_139
+  - first:
+      213: -4749489811937177959
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_140
+  - first:
+      213: -2938253760168110348
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_141
+  - first:
+      213: -3269698082792441337
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_142
+  - first:
+      213: 3241021457059750592
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_143
+  - first:
+      213: 7470403425636412933
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_144
+  - first:
+      213: 7135719880810407674
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_145
+  - first:
+      213: 7219025663574666176
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_146
+  - first:
+      213: -3359636896524002387
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_147
+  - first:
+      213: -2084335509024358167
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_148
+  - first:
+      213: -1621385411981746474
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_149
+  - first:
+      213: -3790423864149528889
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_150
+  - first:
+      213: -675255377472894197
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_151
+  - first:
+      213: -3018935278845777629
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_152
+  - first:
+      213: -7304718735446514682
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_153
+  - first:
+      213: 6566096431044248650
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_154
+  - first:
+      213: 7353721997057407200
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_155
+  - first:
+      213: 2949493721989796208
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_156
+  - first:
+      213: 1796019430770529071
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_157
+  - first:
+      213: 673835392204565285
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_158
+  - first:
+      213: -7577978779806282485
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_159
+  - first:
+      213: -378396959327090889
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_160
+  - first:
+      213: -847800693355692961
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_161
+  - first:
+      213: 1461969940706074360
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_162
+  - first:
+      213: 5622405688285130054
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_163
+  - first:
+      213: 2009248487138759077
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_164
+  - first:
+      213: -7081129750114469063
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_165
+  - first:
+      213: -3734565489961012456
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_166
+  - first:
+      213: 5800110723680841740
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_167
+  - first:
+      213: -5727563145704386430
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_168
+  - first:
+      213: -619263813652256230
+    second: AlchemiaMagicae_Sci-FiGuns01b 256x256_169
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4875
+        width: 223
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852750de9c8cc03a0800000000000000
+      internalID: -6697757776216231336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 4868
+        width: 228
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54661905757612dd0800000000000000
+      internalID: -2512613492384504251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 4869
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046ca3455f158c430800000000000000
+      internalID: 3803379999436359232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_3
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 4872
+        width: 222
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5c4dce6e3c9c10800000000000000
+      internalID: 2061591375040503417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 4874
+        width: 219
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea57040e4f39f40800000000000000
+      internalID: 5734195994564079196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_5
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 4867
+        width: 220
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d79e62241df32930800000000000000
+      internalID: 4117412747265611728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_6
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 4871
+        width: 209
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226312d6195d7d040800000000000000
+      internalID: 4672437958998046242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_7
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 4875
+        width: 207
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0bc3f953b9c1ae0800000000000000
+      internalID: -1577215114879389512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_8
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 4877
+        width: 217
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b418a035b61d3a00800000000000000
+      internalID: 737770881419842740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_9
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 4862
+        width: 220
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625e8c61da1530930800000000000000
+      internalID: 4108217088945480998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4632
+        width: 219
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb71e68d640289cc0800000000000000
+      internalID: -3704175204861339717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4634
+        width: 226
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706fbcdeccc9cd5b0800000000000000
+      internalID: -5342222653991422457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_12
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4637
+        width: 227
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465a31113f7bc470800000000000000
+      internalID: 8415960177391064640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 4617
+        width: 202
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcbbde9a03978bb0800000000000000
+      internalID: -4933813192936932099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_14
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 4614
+        width: 228
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4facaa792c14ef100800000000000000
+      internalID: 143624542146448116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_15
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 4615
+        width: 200
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce3d1c5d292cf140800000000000000
+      internalID: 4754720581392088770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_16
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 4604
+        width: 197
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9d0eb5ccce65a00800000000000000
+      internalID: 745043150835341767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_17
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 4620
+        width: 229
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fac23be5f7f6ee90800000000000000
+      internalID: -6996632335488464135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_18
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 4613
+        width: 236
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63085c3e001922670800000000000000
+      internalID: 8512525678691057718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_19
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 4613
+        width: 212
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d1739fb1599e10800000000000000
+      internalID: 2204883375828883500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_20
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4370
+        width: 192
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80add2c1b6d4b52b0800000000000000
+      internalID: -5594792989648102904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4358
+        width: 236
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f5599400c1bf1b0800000000000000
+      internalID: -5621868922281828509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_22
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4359
+        width: 239
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623e73a7466ecfa50800000000000000
+      internalID: 6556368476766200614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_23
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 4353
+        width: 223
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8525f46ce1f0d8530800000000000000
+      internalID: 3858757080576905816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_24
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 4358
+        width: 222
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e72aed29e2f2780800000000000000
+      internalID: -8705688346348585367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_25
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 4409
+        width: 520
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9697bbd186e3040800000000000000
+      internalID: 4629251943892085229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_26
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 4429
+        width: 179
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b06de6e30bd9bc0800000000000000
+      internalID: -3774667130472625322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_27
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 4427
+        width: 243
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1139ae8647657e0800000000000000
+      internalID: -1777105008990154280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_28
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 4404
+        width: 246
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1755e50e37e0aeac0800000000000000
+      internalID: -3825229042649508495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4162
+        width: 505
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dfcd50230c40220800000000000000
+      internalID: 2451295418275659091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 4159
+        width: 242
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95adc4db55b5edb0800000000000000
+      internalID: -4763201624857533027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4166
+        width: 259
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455960b7159f4300800000000000000
+      internalID: 238573234250405195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_32
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 4145
+        width: 251
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78033bb184b0aa3b0800000000000000
+      internalID: -5500571590549360505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 4142
+        width: 258
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca35f743001f4f90800000000000000
+      internalID: -6967332492240667968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4144
+        width: 252
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb08813f4490f610800000000000000
+      internalID: 1652984131099298750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_35
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 4145
+        width: 256
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80644fa990f52ac20800000000000000
+      internalID: 3216237578754999816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_36
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 4137
+        width: 511
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4565e70352c238aa0800000000000000
+      internalID: -6160031327073708460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3880
+        width: 1022
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e853189ff912dbf0800000000000000
+      internalID: -301149639521642270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_38
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3903
+        width: 258
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4dab6da564b2d50800000000000000
+      internalID: 6713537025489425634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_39
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3903
+        width: 230
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f14490bbe56517b0800000000000000
+      internalID: -5254181327303589389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_40
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3908
+        width: 259
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3440692499747ee0800000000000000
+      internalID: -1264251918127971265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_41
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3912
+        width: 237
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6517a52bba15f61d0800000000000000
+      internalID: -3355373399494201002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_42
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 3898
+        width: 514
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b844b20b8b114720800000000000000
+      internalID: 2828572324825155768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3635
+        width: 246
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86150497dea7075d0800000000000000
+      internalID: -3066816185879211672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3648
+        width: 239
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129712745271f37b0800000000000000
+      internalID: -5242445992361363167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_45
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 3638
+        width: 199
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a539ee3063c00c6f0800000000000000
+      internalID: -666519318717099174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_46
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3634
+        width: 257
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e485ab653d8610800000000000000
+      internalID: 1625013777005340208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_47
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3634
+        width: 252
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408719639d4575660800000000000000
+      internalID: 7374456206742616068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_48
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 3629
+        width: 230
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d76d760748a878f0800000000000000
+      internalID: -542498732093118507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3588
+        width: 246
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbdd6128cc067b60800000000000000
+      internalID: 7743390663003986935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_50
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 3620
+        width: 497
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136678df26ddb3d80800000000000000
+      internalID: -8269772873505741263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_51
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3616
+        width: 253
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7ec7a34fe071220800000000000000
+      internalID: 2456448563869968380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3490
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f36fd3be85b243c0800000000000000
+      internalID: -4376736263342955536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_53
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 3367
+        width: 251
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4f84d2a0a410150800000000000000
+      internalID: 5837027999618757852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_54
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3375
+        width: 500
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635bd777d4b232120800000000000000
+      internalID: 2387799839153698102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_55
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 3384
+        width: 254
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da31526af52cf00800000000000000
+      internalID: 1135575223242042781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3373
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a8598a71dfd6f0800000000000000
+      internalID: -657576696352299699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_57
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3417
+        width: 241
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2c77dea1df91040800000000000000
+      internalID: 4619001184940180223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_58
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3402
+        width: 240
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358e961954a32dd50800000000000000
+      internalID: 6760530061103327315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_59
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3412
+        width: 250
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9177d15cc15b6f40800000000000000
+      internalID: 5722757689492599199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_60
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3412
+        width: 252
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984ff16532ea2fa0800000000000000
+      internalID: -5824594449145050987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_61
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 3402
+        width: 250
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff813540eb4a40b90800000000000000
+      internalID: -7276509961900582657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_62
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 3412
+        width: 246
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9322bc3b563a00800000000000000
+      internalID: 735875905366498608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3152
+        width: 256
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714a5f49d54617bf0800000000000000
+      internalID: -328370944727473129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_64
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3172
+        width: 254
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29569ea560dbdab0800000000000000
+      internalID: -4982159427615958741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_65
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3155
+        width: 228
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f91946bb41188ba0800000000000000
+      internalID: -6086595879512761865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3145
+        width: 244
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624ff0a51420f3b60800000000000000
+      internalID: 7727897965298185254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_67
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3125
+        width: 257
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d88d8d4bf6575f0800000000000000
+      internalID: -759578139619193564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_68
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3129
+        width: 237
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84885c26de7d2cf70800000000000000
+      internalID: 9206158002863048776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_69
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 3128
+        width: 249
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1947805cf7449f2e0800000000000000
+      internalID: -2091565236379683695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_70
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3141
+        width: 252
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542f84c7313f56070800000000000000
+      internalID: 8099146769910788677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_71
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3123
+        width: 244
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d452263c284f480800000000000000
+      internalID: -8866317990708818540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_72
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 3111
+        width: 193
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775b9d81a0a6fbe40800000000000000
+      internalID: 5674370647109252471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_73
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 3006
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aceafb061e9d07f0800000000000000
+      internalID: -644685354116649820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_74
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2837
+        width: 188
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf66724ac1624e0800000000000000
+      internalID: -2006885092585702503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_75
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2824
+        width: 196
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792efc612251411c0800000000000000
+      internalID: -4533975688699452777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_76
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2826
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74858b40db1b08680800000000000000
+      internalID: -8754802250222118841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_77
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2825
+        width: 187
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cbff1034f721600800000000000000
+      internalID: 437552039581432862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_78
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 2819
+        width: 191
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1ec75998100ae0800000000000000
+      internalID: -1585240021952226155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_79
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2837
+        width: 169
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b2764844696d2a0800000000000000
+      internalID: -6713012973525849313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_80
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2824
+        width: 174
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71855b30cea6f100800000000000000
+      internalID: 141492578961162619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_81
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2818
+        width: 259
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff650796d9b115150800000000000000
+      internalID: 5859494953078511359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_82
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2820
+        width: 215
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c4ef18dcc888ca0800000000000000
+      internalID: -6014402488076186577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_83
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2834
+        width: 255
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579848d5c3cb03fe0800000000000000
+      internalID: -1211261332309636747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_84
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2858
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a0bb3ab8c6cc320800000000000000
+      internalID: 2579556033579649673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_85
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2747
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbddfedd720959b50800000000000000
+      internalID: 6599339329882938815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2564
+        width: 254
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6736ff396767a8dc0800000000000000
+      internalID: -3635963497487047818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_87
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2562
+        width: 240
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a560f28c49d9cf3b0800000000000000
+      internalID: -5477329784450120102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_88
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2587
+        width: 203
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378245495f47ef160800000000000000
+      internalID: 7061209863867869299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_89
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2585
+        width: 213
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7806e331a180cd80800000000000000
+      internalID: -8232437589472835462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_90
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2568
+        width: 198
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864cfa8e3dd923e90800000000000000
+      internalID: -7047396933413911448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_91
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2564
+        width: 238
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2269e3067d78aa0800000000000000
+      internalID: -6158717157039004949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_92
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 2599
+        width: 234
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3720510f6a60920800000000000000
+      internalID: 2956233755490153382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_93
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2587
+        width: 250
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3706ca6803685b210800000000000000
+      internalID: 1348131206443327603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_94
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 2574
+        width: 247
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245237e8a97082c10800000000000000
+      internalID: 2028879992526677314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_95
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 2566
+        width: 239
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833bf81372e34fe0800000000000000
+      internalID: -1205871291236928633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_96
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2598
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dffc3f939848070800000000000000
+      internalID: 8107756111170370824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2320
+        width: 229
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb37cbaa12f7ba0800000000000000
+      internalID: -6089111153991762770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_98
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2303
+        width: 255
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15071e33191bf6a40800000000000000
+      internalID: 5363700918420336721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_99
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 2309
+        width: 239
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3593e1e3b05f2000800000000000000
+      internalID: 13318057424557371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_100
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2468
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a59201e0eb289bb0800000000000000
+      internalID: -4929141547309296215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_101
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2303
+        width: 260
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a7139328503eda0800000000000000
+      internalID: -5916879428571268585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_102
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2322
+        width: 246
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bb9c8412a5bd8a0800000000000000
+      internalID: -6279326156436423847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_103
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 2303
+        width: 238
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a6be91da2f49e0800000000000000
+      internalID: -1635041059912899427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_104
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2295
+        width: 200
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6080209a9d07a2070800000000000000
+      internalID: 8082396561415473158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_105
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2302
+        width: 223
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f7d2ad701862920800000000000000
+      internalID: 2965199275395219334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_106
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2312
+        width: 209
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e57438d73bdb88c0800000000000000
+      internalID: -3995859211464182295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_107
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2302
+        width: 247
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468d3efdf10d7b2c0800000000000000
+      internalID: -4415832074294667164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_108
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2320
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e381ff472158280800000000000000
+      internalID: -9041800383171117483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_109
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 2235
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e987e45c2a82be80800000000000000
+      internalID: -8164311251461633559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_110
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2059
+        width: 247
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5374702228e2b60800000000000000
+      internalID: 7723253493649585581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_111
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2057
+        width: 247
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7076fdd32823b0800000000000000
+      internalID: -5537136305622712440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_112
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2059
+        width: 248
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c385addaf5b680800000000000000
+      internalID: -8739803671970986131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_113
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2048
+        width: 500
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daae6cfcca63b7f40800000000000000
+      internalID: 5727231466979912365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_114
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 2080
+        width: 224
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e4cb434b01593f0800000000000000
+      internalID: -894790584798261757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_115
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 2055
+        width: 236
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d320557a9ee920800000000000000
+      internalID: 3021522228658557795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_116
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 2084
+        width: 236
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ecbc91d67c3970800000000000000
+      internalID: 8735988019841787015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_117
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 2053
+        width: 216
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07a3d2fb795e1610800000000000000
+      internalID: 1593809707025540878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_118
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 2067
+        width: 219
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19f79c74fd76480800000000000000
+      internalID: -8905904238685613648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 231
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fcc3b74c8486f80800000000000000
+      internalID: -8113154719989575828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1824
+        width: 258
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccc643e8d98399d0800000000000000
+      internalID: -2768717781283713853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_121
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1812
+        width: 208
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1dc98acef8d770800000000000000
+      internalID: 8635932431331695441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_122
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1806
+        width: 197
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec644cbb5e6e77d0800000000000000
+      internalID: -2918774168209822494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_123
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1814
+        width: 264
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897d7fcb9f5e72e60800000000000000
+      internalID: 7937565729043765144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_124
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1790
+        width: 249
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b638a938ecbbd6670800000000000000
+      internalID: 8533683364582556523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_125
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1799
+        width: 249
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee091864fdc6670800000000000000
+      internalID: 8533440887874711066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_126
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1848
+        width: 152
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bac03d3de45c7e0800000000000000
+      internalID: -1745902608850310348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_127
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1873
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aba5c3edf2f4c70800000000000000
+      internalID: 8957430815405029997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_128
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 1891
+        width: 81
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0010f14960d924550800000000000000
+      internalID: 6143645493267202304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_129
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 1883
+        width: 5
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998552bf1e9c1b040800000000000000
+      internalID: 4661729061723527321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946e5f53688499540800000000000000
+      internalID: 5015119401321883209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_131
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1588
+        width: 141
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d343b34484a950800000000000000
+      internalID: 6459433191861375905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1570
+        width: 170
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572ec454080cf4c0800000000000000
+      internalID: -4252515133448902824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_133
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1559
+        width: 126
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e6abf2a442fd690800000000000000
+      internalID: -7575296147166958010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_134
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1587
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644a56d2869a92010800000000000000
+      internalID: 1164648243555312710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_135
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1596
+        width: 141
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539391dbaaabfe4b0800000000000000
+      internalID: -5408899384968922827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_136
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1588
+        width: 133
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468cf1b5172ec8bc0800000000000000
+      internalID: -3779397010782697372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_137
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1623
+        width: 113
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286bc57e83c4a6710800000000000000
+      internalID: 1687244817687164546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_138
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 1619
+        width: 88
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fb2e1af98eff0d0800000000000000
+      internalID: -3386732622445887595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_139
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1574
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bdd2e4892ff2b90800000000000000
+      internalID: -7264320937964741754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_140
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1560
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ec52f0e2c661eb0800000000000000
+      internalID: -4749489811937177959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6593dc5c93937d0800000000000000
+      internalID: -2938253760168110348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_142
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1300
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a7164dae2bf92d0800000000000000
+      internalID: -3269698082792441337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_143
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1311
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c22771f7db6afc20800000000000000
+      internalID: 3241021457059750592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_144
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1303
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e6be1f5543ca760800000000000000
+      internalID: 7470403425636412933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_145
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 1319
+        width: 121
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6a568cc6b270360800000000000000
+      internalID: 7135719880810407674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_146
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1324
+        width: 76
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbebcdc7912f2460800000000000000
+      internalID: 7219025663574666176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_147
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1306
+        width: 107
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab1460fa0c2061d0800000000000000
+      internalID: -3359636896524002387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_148
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1317
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0ced7d5e3f213e0800000000000000
+      internalID: -2084335509024358167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_149
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1312
+        width: 165
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded3daee8eaf79e0800000000000000
+      internalID: -1621385411981746474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_150
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1303
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce243df395b56bc0800000000000000
+      internalID: -3790423864149528889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_151
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1309
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b4e05dfc201a6f0800000000000000
+      internalID: -675255377472894197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_152
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1059
+        width: 122
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329a080eb569a16d0800000000000000
+      internalID: -3018935278845777629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_153
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1064
+        width: 165
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604e19d130d60aa90800000000000000
+      internalID: -7304718735446514682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_154
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1050
+        width: 166
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a444a555ae57f1b50800000000000000
+      internalID: 6566096431044248650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_155
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1064
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83593d13bad0660800000000000000
+      internalID: 7353721997057407200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_156
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1054
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071527eb9e4bee820800000000000000
+      internalID: 2949493721989796208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_157
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1046
+        width: 84
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23d6c4182ebce810800000000000000
+      internalID: 1796019430770529071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_158
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1053
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b607518b1f95900800000000000000
+      internalID: 673835392204565285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_159
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1060
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc23a137c95d690800000000000000
+      internalID: -7577978779806282485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_160
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1060
+        width: 105
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737883768f9afbaf0800000000000000
+      internalID: -378396959327090889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_161
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1059
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3430e2c10c34f0800000000000000
+      internalID: -847800693355692961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_162
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 931
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe951c4ae5f94410800000000000000
+      internalID: 1461969940706074360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_163
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 873
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dee594f2cc60e40800000000000000
+      internalID: 5622405688285130054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_164
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 781
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a195658ad842eb10800000000000000
+      internalID: 2009248487138759077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_165
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 415
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bf9fb7206cabd90800000000000000
+      internalID: -7081129750114469063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_166
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 278
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f07439782c2cc0800000000000000
+      internalID: -3734565489961012456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_167
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 87
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003eee09f12e7050800000000000000
+      internalID: 5800110723680841740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_168
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 26
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280dba73aab9380b0800000000000000
+      internalID: -5727563145704386430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlchemiaMagicae_Sci-FiGuns01b 256x256_169
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 0
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ae00da7dee767f0800000000000000
+      internalID: -619263813652256230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_0: -6697757776216231336
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_1: -2512613492384504251
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_10: -3704175204861339717
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_100: -4929141547309296215
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_101: -5916879428571268585
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_102: -6279326156436423847
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_103: -1635041059912899427
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_104: 8082396561415473158
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_105: 2965199275395219334
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_106: -3995859211464182295
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_107: -4415832074294667164
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_108: -9041800383171117483
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_109: -8164311251461633559
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_11: -5342222653991422457
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_110: 7723253493649585581
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_111: -5537136305622712440
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_112: -8739803671970986131
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_113: 5727231466979912365
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_114: -894790584798261757
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_115: 3021522228658557795
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_116: 8735988019841787015
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_117: 1593809707025540878
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_118: -8905904238685613648
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_119: -8113154719989575828
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_12: 8415960177391064640
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_120: -2768717781283713853
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_121: 8635932431331695441
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_122: -2918774168209822494
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_123: 7937565729043765144
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_124: 8533683364582556523
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_125: 8533440887874711066
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_126: -1745902608850310348
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_127: 8957430815405029997
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_128: 6143645493267202304
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_129: 4661729061723527321
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_13: -4933813192936932099
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_130: 5015119401321883209
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_131: 6459433191861375905
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_132: -4252515133448902824
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_133: -7575296147166958010
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_134: 1164648243555312710
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_135: -5408899384968922827
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_136: -3779397010782697372
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_137: 1687244817687164546
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_138: -3386732622445887595
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_139: -7264320937964741754
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_14: 143624542146448116
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_140: -4749489811937177959
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_141: -2938253760168110348
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_142: -3269698082792441337
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_143: 3241021457059750592
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_144: 7470403425636412933
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_145: 7135719880810407674
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_146: 7219025663574666176
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_147: -3359636896524002387
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_148: -2084335509024358167
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_149: -1621385411981746474
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_15: 4754720581392088770
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_150: -3790423864149528889
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_151: -675255377472894197
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_152: -3018935278845777629
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_153: -7304718735446514682
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_154: 6566096431044248650
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_155: 7353721997057407200
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_156: 2949493721989796208
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_157: 1796019430770529071
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_158: 673835392204565285
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_159: -7577978779806282485
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_16: 745043150835341767
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_160: -378396959327090889
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_161: -847800693355692961
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_162: 1461969940706074360
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_163: 5622405688285130054
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_164: 2009248487138759077
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_165: -7081129750114469063
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_166: -3734565489961012456
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_167: 5800110723680841740
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_168: -5727563145704386430
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_169: -619263813652256230
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_17: -6996632335488464135
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_18: 8512525678691057718
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_19: 2204883375828883500
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_2: 3803379999436359232
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_20: -5594792989648102904
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_21: -5621868922281828509
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_22: 6556368476766200614
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_23: 3858757080576905816
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_24: -8705688346348585367
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_25: 4629251943892085229
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_26: -3774667130472625322
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_27: -1777105008990154280
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_28: -3825229042649508495
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_29: 2451295418275659091
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_3: 2061591375040503417
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_30: -4763201624857533027
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_31: 238573234250405195
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_32: -5500571590549360505
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_33: -6967332492240667968
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_34: 1652984131099298750
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_35: 3216237578754999816
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_36: -6160031327073708460
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_37: -301149639521642270
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_38: 6713537025489425634
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_39: -5254181327303589389
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_4: 5734195994564079196
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_40: -1264251918127971265
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_41: -3355373399494201002
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_42: 2828572324825155768
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_43: -3066816185879211672
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_44: -5242445992361363167
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_45: -666519318717099174
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_46: 1625013777005340208
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_47: 7374456206742616068
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_48: -542498732093118507
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_49: 7743390663003986935
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_5: 4117412747265611728
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_50: -8269772873505741263
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_51: 2456448563869968380
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_52: -4376736263342955536
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_53: 5837027999618757852
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_54: 2387799839153698102
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_55: 1135575223242042781
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_56: -657576696352299699
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_57: 4619001184940180223
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_58: 6760530061103327315
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_59: 5722757689492599199
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_6: 4672437958998046242
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_60: -5824594449145050987
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_61: -7276509961900582657
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_62: 735875905366498608
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_63: -328370944727473129
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_64: -4982159427615958741
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_65: -6086595879512761865
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_66: 7727897965298185254
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_67: -759578139619193564
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_68: 9206158002863048776
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_69: -2091565236379683695
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_7: -1577215114879389512
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_70: 8099146769910788677
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_71: -8866317990708818540
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_72: 5674370647109252471
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_73: -644685354116649820
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_74: -2006885092585702503
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_75: -4533975688699452777
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_76: -8754802250222118841
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_77: 437552039581432862
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_78: -1585240021952226155
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_79: -6713012973525849313
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_8: 737770881419842740
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_80: 141492578961162619
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_81: 5859494953078511359
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_82: -6014402488076186577
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_83: -1211261332309636747
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_84: 2579556033579649673
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_85: 6599339329882938815
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_86: -3635963497487047818
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_87: -5477329784450120102
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_88: 7061209863867869299
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_89: -8232437589472835462
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_9: 4108217088945480998
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_90: -7047396933413911448
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_91: -6158717157039004949
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_92: 2956233755490153382
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_93: 1348131206443327603
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_94: 2028879992526677314
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_95: -1205871291236928633
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_96: 8107756111170370824
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_97: -6089111153991762770
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_98: 5363700918420336721
+      AlchemiaMagicae_Sci-FiGuns01b 256x256_99: 13318057424557371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
